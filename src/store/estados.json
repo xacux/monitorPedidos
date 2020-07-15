@@ -1,0 +1,38 @@
+{
+    "estado":[
+        {
+            "name": "Anulado",
+            "key": 0
+        },
+        {
+            "name": "En local",
+            "key": 1
+        },
+        {
+            "name": "En cocina",
+            "key": 2
+        },
+        {
+            "name": "En camino",
+            "key": 3
+        },
+        {
+            "name": "Entregado",
+            "key": 4
+        }
+    ],
+    "icon":[
+        "work_off",
+        "error",
+        "warning",
+        "two_wheeler",
+        "done"
+    ],
+    "color":[
+        "blue-grey",
+        "error",
+        "warning",
+        "info",
+        "success"
+    ]
+}

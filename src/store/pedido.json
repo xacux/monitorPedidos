@@ -1,0 +1,31 @@
+{
+    "1pedido":{
+        "estado":0,
+        "codigo":"ABC1555",
+        "repartidor":0,
+        "comentario":"",
+        "direccion":"vladimir saavedra #1113",
+        "comuna":"Antofagasta",
+        "subtotal":"1.000",
+        "propina":"100",
+        "pago":"Pagado Online",
+        "cliente":"Maria Jose",
+        "con_cuanto":"0",
+        "vuelto":"0",
+        "telefono":"56961840098",
+        "fecha":"2020-01-01",
+        "hora":"18:50",
+        "hora_2":"",
+        "fecha_2":"",
+        "pedidos":[
+            {
+                "name":"Completos",
+                "total":"1.990"
+            },
+            {
+                "name":"Italiano",
+                "total":"1.990"
+            }
+        ]
+    }
+}
