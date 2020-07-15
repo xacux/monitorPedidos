@@ -1,5 +1,12 @@
 # Monitor de pedidos
-Sistema de control de pedidos conectado con firebase, requiere crear cuenta en firebase y el login en otro sistema,
+Sistema de control de pedidos conectado con firebase, requiere crear cuenta en firebase y el login en otro sistema.
+
+Cambiar en el archivo main.js:
+```
+config = {...
+```
+con los datos conseguidos desde la consola de firebase
+
 Reglas en bd firebase (Realtime Database):
 ```
 {
