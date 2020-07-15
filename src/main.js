@@ -10,14 +10,14 @@ import 'material-design-icons-iconfont/dist/material-design-icons.css';
 Vue.config.productionTip = false;
 
 const config = {
-  apiKey: "AIzaSyDGqvwKCxI1Zw_70ML5BZUSCaj_T7IVwa8",
-  authDomain: "pruebavue-e2ad7.firebaseapp.com",
-  databaseURL: "https://pruebavue-e2ad7.firebaseio.com",
-  projectId: "pruebavue-e2ad7",
-  storageBucket: "pruebavue-e2ad7.appspot.com",
-  messagingSenderId: "894296338505",
-  appId: "1:894296338505:web:27c11e58e2b8ee18310f98",
-  measurementId: "G-X5GBCJ2602"
+  apiKey: "##########",
+  authDomain: "##########",
+  databaseURL: "##########",
+  projectId: "##########",
+  storageBucket: "##########",
+  messagingSenderId: "##########",
+  appId: "##########",
+  measurementId: "##########"
 };
 
 firebase.initializeApp(config);
